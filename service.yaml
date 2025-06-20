@@ -1,0 +1,5 @@
+service:
+  name: Git-stored Service
+  identifier: Gitstored_Service
+  orgIdentifier: default
+  projectIdentifier: dtmcdtraining
