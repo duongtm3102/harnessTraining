@@ -1,0 +1,1 @@
+replicaCount: <+pipeline.variables.replica_count>
